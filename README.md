@@ -1,1 +1,1 @@
-# alkemy-challenge
+# La aplicación no tiene backend así que si se intenta buscar un héroe desde localhost tendrá un problema de CORS salvo que se use la extensión Moesif Origin & CORS Changer (la usada para el desarrollo).
